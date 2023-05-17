@@ -40,7 +40,7 @@ public class Factorial {
 			num = Integer.parseInt(scanner.next());
 		}
 		catch (NumberFormatException nfe) {
-			
+
 		}
 
 		if (num >= 1 && num <= 10) {
